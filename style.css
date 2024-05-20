@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+main {
+  width: 600px;
+  padding: 20px;
+}
+
+.bubble {
+  max-width: 400px;
+  background: #eff3f4;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 20px;
+  border-radius: 30px;
+  border-bottom-left-radius: 7px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.date {
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.7);
+}
